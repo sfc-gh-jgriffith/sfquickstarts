@@ -8,7 +8,7 @@ status: Published
 feedback link: https://github.com/Snowflake-Labs/sfguides/issues
 tags: Getting Started, Data Science, Data Engineering, AI, Streamlit, RAG, Cortex
 
-# Create a Retrieval Augmented Generation App Using Snowflake Cortex and Streamlit
+# Build a RAG-Based Application on SEC Filing Data Using Snowflake Cortex
 <!-- ------------------------ -->
 ## Overview 
 Duration: 2
